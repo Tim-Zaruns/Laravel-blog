@@ -1,3 +1,9 @@
+### 1 step - composer install
+### 2 step - npm install
+### 3 step - ./vendor/bin/sail up -d
+### 4 step - ./vendor/bin/sail aritsan migrate
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
